@@ -8,3 +8,8 @@
 😄 Pronouns: she/her/hers
 ⚡ Fun fact: I can speak three language.
 
+Some of the gif of the projects I have worked on are: 
+
+1. Body Mass Index Calculator:
+
+   https://www.loom.com/share/99f2cb35efaf4fecb3f3e82138b481f8?sid=e2d341ad-2b22-44a7-87fb-b8cc58ee9ce7
